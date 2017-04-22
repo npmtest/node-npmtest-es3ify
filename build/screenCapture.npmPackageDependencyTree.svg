@@ -1,0 +1,43 @@
+<svg height="638" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="638" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">6 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ es3ify@0.2.2 </tspan>
+<tspan x="10" y="90">  ├── esprima@2.7.3 </tspan>
+<tspan x="10" y="106">  ├─┬ jstransform@11.0.3 </tspan>
+<tspan x="10" y="122">  │ ├── base62@1.1.2 </tspan>
+<tspan x="10" y="138">  │ ├─┬ commoner@0.10.8 </tspan>
+<tspan x="10" y="154">  │ │ ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="170">  │ │ │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="186">  │ │ ├─┬ detective@4.5.0 </tspan>
+<tspan x="10" y="202">  │ │ │ ├── acorn@4.0.11 </tspan>
+<tspan x="10" y="218">  │ │ │ └── defined@1.0.0 </tspan>
+<tspan x="10" y="234">  │ │ ├─┬ glob@5.0.15 </tspan>
+<tspan x="10" y="250">  │ │ │ ├─┬ inflight@1.0.6 </tspan>
+<tspan x="10" y="266">  │ │ │ │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="282">  │ │ │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="298">  │ │ │ ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="314">  │ │ │ │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="330">  │ │ │ │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="346">  │ │ │ │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="362">  │ │ │ ├── once@1.4.0 </tspan>
+<tspan x="10" y="378">  │ │ │ └── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="394">  │ │ ├── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="410">  │ │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="426">  │ │ ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="442">  │ │ │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="458">  │ │ ├── private@0.1.7 </tspan>
+<tspan x="10" y="474">  │ │ ├── q@1.5.0 </tspan>
+<tspan x="10" y="490">  │ │ └─┬ recast@0.11.23 </tspan>
+<tspan x="10" y="506">  │ │   ├── ast-types@0.9.6 </tspan>
+<tspan x="10" y="522">  │ │   ├── esprima@3.1.3 </tspan>
+<tspan x="10" y="538">  │ │   └── source-map@0.5.6 </tspan>
+<tspan x="10" y="554">  │ ├── esprima-fb@15001.1.0-dev-harmony-fb </tspan>
+<tspan x="10" y="570">  │ ├── object-assign@2.1.1 </tspan>
+<tspan x="10" y="586">  │ └─┬ source-map@0.4.4 </tspan>
+<tspan x="10" y="602">  │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="618">  └── through@2.3.8</tspan>
+</text>
+</svg>
